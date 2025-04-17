@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/google/generic/device.mk)
 
 PRODUCT_DEVICE := generic
-PRODUCT_NAME := omni_generic
+PRODUCT_NAME := twrp_generic
 PRODUCT_BRAND := google
 PRODUCT_MODEL := mainline
 PRODUCT_MANUFACTURER := google
